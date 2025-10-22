@@ -5,6 +5,21 @@ SyNdicate Foundation Roadmap
 
 Progress rules Complete: Add base features and provide a base solution Maintain: Bug Fixes rather than new features
 
+## Fix SEO (description / README / Tags) for projects
+	RustyRay
+	Swift HTTP
+	Legit Agent
+	Sing-Proxy
+	Xenon Cord
+	MC Stalker
+	MCUltraLight-1.8.9
+	BungeeEssentials
+	Swift Tunnel
+	Perkosrak
+	RawSocketWrapper
+	Cheese
+	SyNdicateFoundationDiscordBot
+
 ## Keep up sub-corps
 	Adamant LTD.
 
