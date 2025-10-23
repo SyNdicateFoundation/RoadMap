@@ -7,14 +7,14 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 
 ## Fix SEO (description / README / Tags) for projects
 	RustyRay
-	Swift HTTP
-	Legit Agent
-	Sing-Proxy
+	Swift HTTP ✅
+	Legit Agent ✅
+	Sing-Proxy ✅
 	Xenon Cord
 	MC Stalker
 	MCUltraLight-1.8.9
 	BungeeEssentials
-	Swift Tunnel
+	Swift Tunnel ✅
 	Perkosrak
 	RawSocketWrapper
 	Cheese
