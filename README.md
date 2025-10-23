@@ -16,7 +16,7 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 	BungeeEssentials
 	Swift Tunnel ✅
 	Perkosrak
-	RawSocketWrapper
+	RawSocketWrapper ✅
 	Cheese
 	DiscordBot
 
