@@ -33,6 +33,10 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 	Cheese
 	RustyRay
 
+## Convert base source into a library (required for the ease of usage)
+	LitePhoton
+	GinWrapper (SyndicateBackend)
+
 ## Maintain Closed-Source projects (if needed)
 	(Names are privatized)
 
