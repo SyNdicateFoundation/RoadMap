@@ -15,10 +15,10 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 	MCUltraLight-1.8.9
 	BungeeEssentials
 	Swift Tunnel ✅
-	Perkosrak
+	Perkosrak✅
 	RawSocketWrapper ✅
 	Cheese
-	DiscordBot
+	DiscordBot ✅
 
 ## Keep up sub-corps
 	Adamant LTD.
