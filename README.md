@@ -18,7 +18,7 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 	Perkosrak
 	RawSocketWrapper
 	Cheese
-	SyNdicateFoundationDiscordBot
+	DiscordBot
 
 ## Keep up sub-corps
 	Adamant LTD.
@@ -36,6 +36,7 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 ## Convert base source into a library (required for the ease of usage)
 	LitePhoton
 	GinWrapper (SyndicateBackend)
+	DiscordBot
 
 ## Maintain Closed-Source projects (if needed)
 	(Names are privatized)
