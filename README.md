@@ -21,6 +21,7 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 	DiscordBot ✅
 
 ## Complete Closed-Source projects (if any exist)
+	ElementVPN
 	(Names are privatized)
 
 ## Complete Open-Source projects (if any exist)
