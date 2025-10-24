@@ -20,9 +20,6 @@ Progress rules Complete: Add base features and provide a base solution Maintain:
 	Cheese
 	DiscordBot ✅
 
-## Keep up sub-corps
-	Adamant LTD.
-
 ## Complete Closed-Source projects (if any exist)
 	(Names are privatized)
 
