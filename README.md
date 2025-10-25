@@ -1,10 +1,10 @@
 # RoadMap
-Our Foundation Roadmap. To successfully fulfill our mission, we must accomplish the essential tasks listed below.
-SyNdicate Foundation Roadmap
-(Numbers represent priority)
+# Our Foundation Roadmap. To successfully fulfill our mission, we must accomplish the essential tasks listed below.
+# SyNdicate Foundation Roadmap
+# (Numbers represent priority)
 
-Completing a project: Add base features and provide a base solution 
-Maintaining a project: Bug Fixes rather than new features
+#Completing a project: Add base features and provide a base solution 
+# Maintaining a project: Bug Fixes rather than new features
 
 ## Verify domain to get github verified badge ✅
     https://github.com/organizations/SyNdicateFoundation/settings/domains
