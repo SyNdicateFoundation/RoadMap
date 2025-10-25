@@ -5,7 +5,7 @@ SyNdicate Foundation Roadmap
 
 Progress rules Complete: Add base features and provide a base solution Maintain: Bug Fixes rather than new features
 
-## Verifying domain to get github verified badge
+## Verify domain to get github verified badge
     https://github.com/organizations/SyNdicateFoundation/settings/domains
 <img width="61" height="30" alt="image" src="https://github.com/user-attachments/assets/b355e7ed-832f-40c3-b90b-8746990234ba" />
 
