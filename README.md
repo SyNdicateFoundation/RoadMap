@@ -27,7 +27,7 @@
 	DiscordBot ✅
 
 ## Complete Closed-Source projects (if any exist)
-	ElementVPN
+	ElementVPN (50%)
 	(Names are privatized)
 
 ## Complete Open-Source projects (if any exist)
