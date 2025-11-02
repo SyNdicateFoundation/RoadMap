@@ -38,7 +38,7 @@
 	RustyRay
 
 ## Convert base source into a library (required for the ease of usage)
-	LitePhoton
+	LitePhoton ✅
 	GinWrapper (SyndicateBackend)
 	DiscordBot
 
