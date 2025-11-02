@@ -39,15 +39,15 @@
 
 ## Convert base source into a library (required for the ease of usage)
 	LitePhoton ✅
-	GinWrapper (SyndicateBackend)
+	GinWrapper (SyndicateBackend) ✅
 	DiscordBot
 
 ## Maintain Closed-Source projects (if needed)
 	(Names are privatized)
 
 ## Maintain Open-Source projects (if needed)
-	Gin Wrapper (Renamed & transformed into library)
-	LitePhoton (Renamed & transformed into library)
+	Gin Wrapper (Renamed & transformed into library) ✅
+	LitePhoton (Renamed & transformed into library) ✅
 	MCUltraLight-1.8.9
 	GopherMC
 	Swift HTTP
