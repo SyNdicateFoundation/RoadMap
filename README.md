@@ -7,7 +7,6 @@
 ### Maintaining a project: Bug Fixes rather than new features
 
 ## Fix SEO (description / README / Tags) for projects
-	RustyRay
 	Xenon Cord
 	MC Stalker
 	MCUltraLight-1.8.9
@@ -15,7 +14,7 @@
 	Cheese
 
 ## Complete Closed-Source projects (if any exist)
-	ElementVPN (50%)
+	ElementVPN (Almost done)
 	(Names are privatized)
 
 ## Complete Open-Source projects (if any exist)
@@ -23,7 +22,6 @@
 	MC Stalker
 	LightWave
 	Cheese
-	RustyRay
 
 ## Convert base source into a library (required for the ease of usage)
 	DiscordBot
