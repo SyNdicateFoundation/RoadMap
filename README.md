@@ -7,7 +7,6 @@
 ### Maintaining a project: Bug Fixes rather than new features
 
 ## Fix SEO (description / README / Tags) for projects
-	Xenon Cord
 	MC Stalker
 	MCUltraLight-1.8.9
 	BungeeEssentials
