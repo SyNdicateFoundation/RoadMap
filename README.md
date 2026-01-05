@@ -21,6 +21,7 @@
 	MC Stalker
 	LightWave
 	Cheese
+	V2Find
 
 ## Convert base source into a library (required for the ease of usage)
 	DiscordBot
